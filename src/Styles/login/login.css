@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.login-page-video-container {
+  height: 50vh;
+  min-width: 200px;
+  overflow: hidden;
+  min-height: 2000px;
+  aspect-ratio: 16/9;
+  width: 52.7vh;
+}/*# sourceMappingURL=login.css.map */

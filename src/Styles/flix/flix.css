@@ -1,0 +1,51 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.loginpage-video-gradient {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 83.8%, rgba(0, 0, 0, 0.15) 100%);
+}
+
+.login-page-photo-gradient {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.2) 100%);
+}
+
+.header-gradient {
+  background: linear-gradient(180deg, rgba(26, 25, 23, 0.5) 0%, rgba(26, 25, 23, 0) 99.5%);
+}
+
+/* Hide scrollbar for all elements */
+::-webkit-scrollbar {
+  display: none;
+  /* Chrome, Safari, Edge, and others */
+}
+
+.section-gradient {
+  background: linear-gradient(180deg, rgba(26, 25, 23, 0) 0%, rgba(26, 25, 23, 0.5) 60.99%);
+}
+
+.custom-light-grey {
+  border-color: #cccccc;
+}
+
+.footer-background {
+  -webkit-backdrop-filter: blur(8px);
+          backdrop-filter: blur(8px);
+  background: rgba(26, 25, 23, 0.6980392157);
+}
+
+.footer-gradient {
+  background: linear-gradient(180deg, rgba(26, 25, 23, 0) 0%, rgba(26, 25, 23, 0.4) 99.5%);
+}
+
+.sound-button-gradient {
+  -webkit-backdrop-filter: blur(12px);
+          backdrop-filter: blur(12px);
+  border-radius: 2px;
+}
+
+.flix-main-video {
+  width: 52.7vh;
+}/*# sourceMappingURL=flix.css.map */
